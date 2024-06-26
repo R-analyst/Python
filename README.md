@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Rita, a HR Analyst learning to code
-- 👀 My interests are watching comedies, writing [here](https:www.talesbyrita.com) and [here](https://www.facebook.com/rita.anyanwu.14) and reading when I can find the time
+- 👀 My interests are watching comedies, writing [here](https://www.talesbyrita.com) and [here](https://www.facebook.com/rita.anyanwu.14) and reading when I can find the time
 - 🌱 I’m currently learning Python and Data analysis with Dahel Techies, Nigeria
 - 💞️ I’m looking to collaborate on data analysis projects and Python/SQL programming
 - 📫 How to reach me [Linkedin](www.linkedin.com/in/ritaokoro17)
